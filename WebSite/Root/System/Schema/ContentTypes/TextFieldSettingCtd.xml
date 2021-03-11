@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentType name="TextFieldSetting" parentType="FieldSettingContent" handler="ContentRepository.Schema.FieldSettingContent" xmlns="http://schemas.com/ContentRepository/ContentTypeDefinition">
+  <DisplayName>$Ctd-TextFieldSetting,DisplayName</DisplayName>
+  <Icon>addshorttextfield</Icon>
+  <Fields />
+</ContentType>

@@ -1,0 +1,5 @@
+<ContentType name="PageBreakFieldSetting" parentType="FieldSettingContent" handler="ContentRepository.Schema.FieldSettingContent" xmlns="http://schemas.com/ContentRepository/ContentTypeDefinition">
+  <DisplayName>$Ctd-PageBreakFieldSetting,DisplayName</DisplayName>
+  <Icon></Icon>
+  <Fields />
+</ContentType>

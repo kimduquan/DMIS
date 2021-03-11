@@ -1,0 +1,1 @@
+..\Source\DMIS\WebSite\Root\Sites\Default_Site\workspaces\Project\madridprojectworkspace\Blog\Posts\(apps).Content;/Root/Sites/Default_Site/workspaces/Project/madridprojectworkspace/Blog/Posts

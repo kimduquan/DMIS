@@ -1,0 +1,6 @@
+<ContentType name="DynamicJsonContent" parentType="File" handler="Portal.Handlers.DynamicJsonContent" xmlns="http://schemas.com/ContentRepository/ContentTypeDefinition">
+  <DisplayName>Dynamic JSON content</DisplayName>
+  <Description></Description>
+  <Icon>Settings</Icon>
+  <Fields></Fields>
+</ContentType>

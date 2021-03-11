@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentType name="Skins" parentType="SystemFolder" handler="ContentRepository.SystemFolder" xmlns="http://schemas.com/ContentRepository/ContentTypeDefinition">
+  <DisplayName>$Ctd-Skins,DisplayName</DisplayName>
+  <Description>$Ctd-Skins,Description</Description>
+  <Icon>Folder</Icon>
+  <AllowedChildTypes>
+    Skin
+  </AllowedChildTypes>
+  <Fields></Fields>
+</ContentType>

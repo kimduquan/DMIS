@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentType name="SalesWorkspaceFolder" parentType="Folder" handler="ContentRepository.Folder" xmlns="http://schemas.com/ContentRepository/ContentTypeDefinition">
+  <DisplayName>$Ctd-SalesWorkspaceFolder,DisplayName</DisplayName>
+  <Description>$Ctd-SalesWorkspaceFolder,Description</Description>
+  <Icon>Folder</Icon>
+  <AllowedChildTypes>SalesWorkspace</AllowedChildTypes>
+  <Fields />
+</ContentType>

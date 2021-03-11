@@ -1,0 +1,1 @@
+<%@ WebHandler Language="C#" CodeBehind="CaptchaImageHandler.cs" Class="Toolbox.WebControlCaptcha.CaptchaImageHandler" %>

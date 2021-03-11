@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentType name="NumberFieldSetting" parentType="FieldSettingContent" handler="ContentRepository.Schema.FieldSettingContent" xmlns="http://schemas.com/ContentRepository/ContentTypeDefinition">
+  <DisplayName>$Ctd-NumberFieldSetting,DisplayName</DisplayName>
+  <Icon>addnumberfield</Icon>
+  <Fields />
+</ContentType>

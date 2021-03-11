@@ -1,0 +1,19 @@
+Start exporting 
+
+2015-08-25 16:07:31.8723	Target directory exists: E:\temp\Root. Exported contents will override existing subelements.
+2015-08-25 16:07:32.0286	
+2015-08-25 16:07:32.0286	=========================== Export ===========================
+2015-08-25 16:07:32.0286	From: /Root/Sites/Default_Site/workspaces/(apps)/This
+2015-08-25 16:07:32.0442	To:   E:\temp\Root
+2015-08-25 16:07:32.0598	==============================================================
+2015-08-25 16:07:32.0755	This
+2015-08-25 16:07:32.2161	  Browse
+2015-08-25 16:07:32.3098	    Previews
+2015-08-25 16:07:32.3567	      V1.0.A
+2015-08-25 16:07:32.3723	--------------------------------------------------------------
+2015-08-25 16:07:32.3880	Outer references:
+2015-08-25 16:07:32.3880	/Root/IMS/BuiltIn/Portal/Admin
+2015-08-25 16:07:32.3880	/Root/Global/pagetemplates/sn-layout-intra-main.html
+2015-08-25 16:07:32.4036	==============================================================
+2015-08-25 16:07:32.4036	Export is successfully finished.
+2015-08-25 16:07:32.4192	Read log file: E:\projects\DMIS\trunk\Source\DMIS\WebSite\Tools\exportlog.txt

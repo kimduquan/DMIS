@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://schemas.datacontract.org/2004/07/System.Drawing" />
+  <xs:element name="ConvertToPDF">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="inputFile" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="outputFile" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="ConvertToPDFResponse">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="IsSupportedExtension">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="extension" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="IsSupportedExtensionResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="IsSupportedExtensionResult" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetSuggestImageSize">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="extension" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="isThumbnail" type="xs:boolean" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="GetSuggestImageSizeResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element xmlns:q1="http://schemas.datacontract.org/2004/07/System.Drawing" minOccurs="0" name="GetSuggestImageSizeResult" type="q1:Size" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

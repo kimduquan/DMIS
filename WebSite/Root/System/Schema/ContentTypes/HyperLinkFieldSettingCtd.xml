@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentType name="HyperLinkFieldSetting" parentType="FieldSettingContent" handler="ContentRepository.Schema.FieldSettingContent" xmlns="http://schemas.com/ContentRepository/ContentTypeDefinition">
+  <DisplayName>$Ctd-HyperLinkFieldSetting,DisplayName</DisplayName>
+  <Icon>addhyperlinkfield</Icon>
+  <Fields />
+</ContentType>
